@@ -1,2 +1,2 @@
-console.log('this is the test file version 1.');
-console.log("this is the test file version 1 'Hello world' ");
+console.log('this is the test file version 2.');
+console.log("this is the test file version 2 'Hello world' ");
