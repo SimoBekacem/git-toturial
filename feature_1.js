@@ -1,2 +1,2 @@
 console.log('this is the file feature_1.js for the branch name featur_1');
-alert('this is the version 4 of the feature 1');
+console.error('this is the version 4 of the feature 1');
